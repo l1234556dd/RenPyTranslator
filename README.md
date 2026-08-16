@@ -1,11 +1,24 @@
+<div align="center">
+  <img src="banner.png" alt="RenPyTranslator" width="100%"/>
+</div>
+
 # 🎮 RenPyTranslator — Ren'Py 游戏实时汉化工具
 
 > 面向 Ren'Py 引擎视觉小说的 **Windows 桌面汉化工具**：实时游戏内翻译 + 一键全文翻译 + 免费/AI 双引擎，支持多语言、百分比翻译、token 费用预估，类 MTool 的开源替代。
 
-[![Python](https://img.shields.io/badge/Python-3.11-blue)](https://www.python.org/)
-[![UI](https://img.shields.io/badge/UI-PySide6-green)](https://doc.qt.io/qtforpython/)
-[![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
-[![Platform](https://img.shields.io/badge/Platform-Windows-0078d6)]()
+<div align="center">
+  **中文** ｜ <a href="README_EN.md">English</a>
+</div>
+
+<p align="center">
+  <a href="https://github.com/l1234556dd/RenPyTranslator/stargazers"><img src="https://img.shields.io/github/stars/l1234556dd/RenPyTranslator?style=for-the-badge&label=Star%20%E2%AD%90"/></a>
+  <a href="https://github.com/l1234556dd/RenPyTranslator/forks"><img src="https://img.shields.io/github/forks/l1234556dd/RenPyTranslator?style=for-the-badge&label=Fork"/></a>
+  <a href="https://github.com/l1234556dd/RenPyTranslator/releases"><img src="https://img.shields.io/github/v/release/l1234556dd/RenPyTranslator?style=for-the-badge&label=Release"/></a>
+  <img src="https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/UI-PySide6-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Platform-Windows-0078d6?style=for-the-badge"/>
+</p>
 
 ---
 

@@ -1,0 +1,31 @@
+# ===== 敏感配置（含 API Key，切勿上传）=====
+config.json
+data/config.json
+
+# ===== 运行时数据（翻译缓存含游戏原文/译文，涉及版权，勿上传）=====
+data/
+*.db
+*.db-wal
+*.db-shm
+*_texts.json
+*_backup.json
+
+# ===== 构建产物 =====
+build/
+dist/
+__pycache__/
+*.pyc
+
+# ===== 系统/编辑器 =====
+Thumbs.db
+.DS_Store
+.idea/
+.vscode/
+
+# 调试遗留垃圾
+%OUT%
+
+# ===== QA/调试临时文件 =====
+_qa_*
+*.log
+zz_*
